@@ -1,0 +1,13 @@
+name: tweetgenerator
+title: tweetgenerator
+username:
+account: drbonis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 395158
+bundleId: 1518632
+url: https://drbonis.shinyapps.io/tweetgenerator/
+when: 1533426852.97997
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|ahorapodemos.csv|Albert_Rivera.csv|andrewyng.csv|barbijaputa.csv|barbijaputa$text.csv|cristiano.csv|JuanGrvas.csv|kirkdborne.csv|nogracias_eu.csv|pontifex.csv|repunomada.csv
