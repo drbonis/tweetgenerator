@@ -36,8 +36,9 @@ retrieve_tweets<-function(username){
 }
 
 load_tweets<-function(username){
-  return(read_twitter_csv(paste0(username,".csv")))
+  return(read_twitter_csv(paste0("https://raw.githubusercontent.com/drbonis/tweetgenerator/master/",username,".csv")))
 }
+
 
 build_model<-function(username) {
   tweets_raw<-load_tweets(username)

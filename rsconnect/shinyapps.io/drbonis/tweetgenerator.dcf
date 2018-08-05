@@ -5,9 +5,9 @@ account: drbonis
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 395158
-bundleId: 1518632
+bundleId: 1518959
 url: https://drbonis.shinyapps.io/tweetgenerator/
-when: 1533426852.97997
+when: 1533458228.48171
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: .RData|ahorapodemos.csv|Albert_Rivera.csv|andrewyng.csv|barbijaputa.csv|barbijaputa$text.csv|cristiano.csv|JuanGrvas.csv|kirkdborne.csv|nogracias_eu.csv|pontifex.csv|repunomada.csv
+ignoredFiles: ahorapodemos.csv|Albert_Rivera.csv|andrewyng.csv|barbijaputa.csv|bolsamania.csv|confuciusquote.csv|cristiano.csv|dlacalle.csv|empleoytrabajo.csv|fllordachs.csv|iberia.csv|ifilosofia.csv|IQVia_global.csv|juliomayol.csv|justinbieber.csv|kirkdborne.csv|manyez.csv|marca.csv|medecofamilia.csv|nogracias_eu.csv|perezreverte.csv|pontifex.csv|publico_es.csv|queen_uk.csv|rcofinof.csv|realDonaldTrump.csv|repunomada.csv|RoberRimbaud.csv|rubiu5.csv

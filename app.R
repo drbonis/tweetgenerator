@@ -12,9 +12,9 @@ library(rjson)
 source("main.R")
 
 Queen_uk <<- build_model("queen_uk")
-IQVia_global <<- build_model("iqvia_global")
 ConfunciusQuote <<- build_model("confuciusquote")
-realDonaldTrump <<- build_model("realdonaldtrump")
+JustinBieber <<- build_model("JustinBieber")
+realDonaldTrump <<- build_model("realDonaldTrump")
 iberia <<- build_model("iberia")
 ifilosofia <<- build_model("ifilosofia")
 bolsamania <<- build_model("bolsamania")
@@ -27,7 +27,7 @@ rcofinof <<- build_model("rcofinof")
 fllordachs <<- build_model("fllordachs")
 marca <<- build_model("marca")
 medecofamilia <<- build_model("medecofamilia")
-roberrimbaud <<- build_model("roberrimbaud")
+roberrimbaud <<- build_model("RoberRimbaud")
 rubiu5 <<- build_model("rubiu5")
 
 
@@ -44,7 +44,6 @@ ui <- fluidPage(
         selectInput(inputId = "twitteraccount",
                     label = "Choose account to imitate:",
                     choices = c("Queen_uk", 
-                                "IQVia_global", 
                                 "JustinBieber",
                                 "ConfunciusQuote",
                                 "realDonaldTrump",
